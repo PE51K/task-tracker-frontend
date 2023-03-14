@@ -1,5 +1,5 @@
-Данный репозиторий содержит клиентскую часть для для приложения таск-трекера, созданного в рамках образовательной программы Финтех-Хаба
+This repository contains the client part for the task tracker application created as part of the Fintech Hub educational program
 
-Для работы требуется подключение серверной части: https://github.com/PE51K/task-tracker-backend
+Connection of the server part is required for operation: https://github.com/PE51K/task-tracker-backend
 
-Вход под админа: admin:1223
+Login under admin: admin:1223
